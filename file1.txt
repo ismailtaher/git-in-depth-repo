@@ -2,5 +2,5 @@ this is my file one for git learning
 adding more content to file1
 
 add another  marketing message section
-add footer note
-2025 is here
+
+2026 is coming
