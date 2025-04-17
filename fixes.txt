@@ -3,3 +3,4 @@ I am a fix file to fix the bug
 This is another fix
 
 one more bug detected and fixed
+fouth bug  fixed
