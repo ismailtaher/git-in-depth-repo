@@ -7,3 +7,5 @@ fouth bug  fixed
 fifth bug fixed
 
 another fix message for pink mode
+
+added bug fixes for new branch
